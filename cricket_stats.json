@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Virat Kohli",
+        "runs": 12000,
+        "wickets": 4,
+        "matches": 280
+    },
+    {
+        "name": "Rohit Sharma",
+        "runs": 10000,
+        "wickets": 8,
+        "matches": 260
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "runs": 200,
+        "wickets": 150,
+        "matches": 100
+    }
+]

@@ -1,0 +1,28 @@
+hi! this is a demo text file!!
+content successfully added!!
+food: 12000
+travel: 3000
+rent: 18000
+electricity: 2700
+internet: 1000
+
+
+
+TV
+Mobile
+Microwave
+Washing Machine
+Dryer
+
+Laptop: 50000
+Mouse: 500
+Keyboard: 1500
+pen drive: 300
+monitor: 2000
+ router: 2500
+Python is a popular programming language used in data analysis, machine learning, web development, and automation. Python makes it easier to process data, analyze information, and build useful applications. Many beginners choose Python because its syntax is simple and readable.
+
+Data analysis helps businesses understand customer behavior, identify trends, and make better decisions. A data analyst uses Python to clean data, calculate statistics, and create reports. Python can also read information from text files, replace specific words, and save updated content into new files without changing the original data.
+Python is a popular programming language used in data analysis, machine learning, web development, and automation. Python makes it easier to process data, analyze information, and build useful applications. Many beginners choose Python because its syntax is simple and readable.
+
+Data analysis helps businesses understand customer behavior, identify trends, and make better decisions. A data analyst uses Python to clean data, calculate statistics, and create reports. Python can also read information from text files, replace specific words, and save updated content into new files without changing the original data.

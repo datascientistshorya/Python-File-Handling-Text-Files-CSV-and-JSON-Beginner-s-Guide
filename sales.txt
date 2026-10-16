@@ -1,0 +1,6 @@
+Laptop: 50000
+Mouse: 500
+Keyboard: 1500
+pen drive: 300
+monitor: 2000
+ router: 2500

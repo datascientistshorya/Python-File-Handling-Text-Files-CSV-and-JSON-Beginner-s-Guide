@@ -1,0 +1,5 @@
+food: 12000
+travel: 3000
+rent: 18000
+electricity: 2700
+internet: 1000
