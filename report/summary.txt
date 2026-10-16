@@ -1,0 +1,5 @@
+Sales Summary
+--------------
+Total Sales: 150000
+Total Orders: 45
+Best-Selling Product: Laptop
