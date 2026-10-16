@@ -1,0 +1,2 @@
+# Python-File-Handling-Text-Files-CSV-and-JSON-Beginner-s-Guide
+A beginner-friendly Python file handling guide covering text files, reading, writing, appending, file modes, context managers, exception handling, and CSV and JSON operations. Includes 30 structured coding questions, practical exercises, data processing techniques, and mini-projects to build confidence in handling real-world data files.
